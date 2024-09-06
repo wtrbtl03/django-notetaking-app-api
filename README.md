@@ -199,4 +199,4 @@ This is a simple REST API built using Django for managing notes. The API allows 
     ```
 
 ## License
-The code for this project is available for use nder the [MIT License](LICENSE).
+The code for this project is available for use under the [MIT License](LICENSE).
